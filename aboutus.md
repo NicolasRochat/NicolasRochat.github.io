@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About us
-#subtitle: Why you'd want to go on a date with me
+subtitle: Who we are
+cover-img: "/assets/img/panda.jpg"
 ---
 
 #My name is Inigo Montoya. I have the following qualities:
