@@ -12,15 +12,6 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
     <div class="caption">Group Picture (to change)</div>
 </div>
 
-### Our favorite beer
-
-<ul>
-  <li>Bastien Amez:</li>
-  <li>Noe Fellay:</li>
-  <li>Nicolas Rochat:</li>
-  <li>Baptiste Michel:</li>
-</ul>
-
 <div class="container" style="align: center; text-align:center">
 
     <img src="/assets/img/bastien.jpg" style="width:24%; max-width: 100px; max-height:100px" class="portrait">
