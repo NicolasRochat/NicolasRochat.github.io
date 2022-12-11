@@ -2,7 +2,7 @@
 layout: page
 title: Sustainable Pandas
 subtitle: Who we are
-cover-img: "/assets/img/panda.jpg"
+cover-img: "/assets/img/group.jpg"
 ---
 
 We are four Applied Data Analysts concerned by beer reviews around the world. Each beer is unique and everyone has requirements on the appearance, aroma, palate, and taste for a good beer.
