@@ -8,7 +8,7 @@ cover-img: "/assets/img/group.jpg"
 We are four Applied Data Analysts concerned by beer reviews around the world. Each beer is unique and everyone has requirements on the appearance, aroma, palate, and taste for a good beer.
 
 <div style="align: center; text-align:center;">
-    <img src="/assets/img/group.jpg" width="60%" height="60%"/>
+    <img src="/assets/img/sat.jpg" width="60%" height="60%"/>
     <div class="caption">Group Picture(to change)</div>
 </div>
 
