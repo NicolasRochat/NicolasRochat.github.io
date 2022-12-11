@@ -1,9 +1,15 @@
 ---
 layout: page
-title: About us
+title: Sustainable Pandas
 subtitle: Who we are
 cover-img: "/assets/img/panda.jpg"
 ---
+
+We are four Applied Data Analysts concerned by beer reviews around the world. Each beer is unique and everyone has requirements on the appearance, aroma, palate, and taste for a good beer.
+
+![useful image](/assets/img/group.jpg)
+*4 handsome pandas*
+
 
 #My name is Inigo Montoya. I have the following qualities:
 
