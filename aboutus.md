@@ -24,19 +24,13 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
 <div class="col-4 col-12-mobilep">
     <img src="/assets/img/bastien.jpg" alt="Bastien" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
     <div class="content">Bastien<div/>
-<div/>
-
-<div class="col-4 col-12-mobilep">
+        
     <img src="/assets/img/noe.jpg" alt="Noe" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
     <div class="content">Noe<div/>
-<div/>
         
-<div class="col-4 col-12-mobilep">
     <img src="/assets/img/nicolas.jpg" alt="Nicolas" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
     <div class="content">Nicolas<div/>
-<div/>
-
-<div class="col-4 col-12-mobilep">
+        
     <img src="/assets/img/baptiste.jpg" alt="Baptiste" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
     <div class="content">Baptiste<div/>
 <div/>
