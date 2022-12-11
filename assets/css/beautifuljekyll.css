@@ -24,15 +24,15 @@ html {
 
 .container {
   width:90%;
+  display: grid;
+  grid-template-columns:20% 20% 20% 20%;
+  align-items: center;
 }
 
 img.portrait {
   padding: 5px;
   border-radius: 50%;
   filter: grayscale(100%);
-  display: grid;
-  grid-template-columns:20% 20% 20% 20%;
-  align-items: center;
 }
 
 body {
