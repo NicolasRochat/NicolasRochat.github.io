@@ -21,7 +21,6 @@ html {
 }
 
 img.portrait {
-  float: left;
   padding: 5px;
   border-radius: 50%;
   filter: grayscale(100%);
