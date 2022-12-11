@@ -12,13 +12,11 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
     <div class="caption">Group Picture(to change)</div>
 </div>
 
-#My name is Inigo Montoya. I have the following qualities:
+### Our favorite beer
 
-#- I rock a great mustache
-#- I'm extremely loyal to my family
-
-#What else do you need?
-
-### My story
-
-#To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it #will answer **all** your questions.
+<ul>
+  <li>Bastien Amez:</li>
+  <li>Noe Fellay:</li>
+  <li>Nicolas Rochat:</li>
+  <li>Baptiste Michel:</li>
+</ul>
