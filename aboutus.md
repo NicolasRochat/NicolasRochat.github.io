@@ -7,6 +7,11 @@ cover-img: "/assets/img/panda.jpg"
 
 We are four Applied Data Analysts concerned by beer reviews around the world. Each beer is unique and everyone has requirements on the appearance, aroma, palate, and taste for a good beer.
 
+<div style="align: center; text-align:center;">
+    <img src="/assets/img/group.jpg" height="31px" width="200px" />
+    <div class="caption">4 handsome pandas</div>
+</div>
+
 ![useful image](/assets/img/group.jpg)
 *4 handsome pandas*
 
