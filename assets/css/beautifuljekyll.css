@@ -20,7 +20,7 @@ html {
   display: inline;
 }
 
-.portrait {
+img.portrait {
     border-radius: 50%;
     filter: grayscale(100%);
 }
