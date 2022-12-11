@@ -15,9 +15,9 @@ html {
   padding: 5px;
 }
 
-/* Clear floats after image containers */
-.row {
-  display: inline-block;
+.container {
+  align-items: center; 
+  float: left;
 }
 
 img.portrait {
