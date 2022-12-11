@@ -11,7 +11,7 @@ html {
 }
 
 .column {
-  flex: 24%;
+  flex: 5;
   padding: 5px;
 }
 
