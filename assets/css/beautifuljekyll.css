@@ -17,7 +17,7 @@ html {
 
 /* Clear floats after image containers */
 .row {
-  display: inline;
+  display: inline-block;
 }
 
 img.portrait {
