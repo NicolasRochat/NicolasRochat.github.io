@@ -21,8 +21,10 @@ html {
 }
 
 img.portrait {
-    border-radius: 50%;
-    filter: grayscale(100%);
+  float: left;
+  padding: 5px;
+  border-radius: 50%;
+  filter: grayscale(100%);
 }
 
 body {
