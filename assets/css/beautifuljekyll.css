@@ -21,10 +21,12 @@ html {
 }
 
 img.portrait {
-    float: left;
+  float: left;
   padding: 5px;
   border-radius: 50%;
   filter: grayscale(100%);
+  display: grid;
+  grid-template-columns:20% 20% 20% 20%;
 }
 
 body {
