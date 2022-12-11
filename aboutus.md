@@ -9,7 +9,7 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ea
 
 <div style="align: center; text-align:center;">
     <img src="/assets/img/group.jpg" width="60%" height="60%"/>
-    <div class="caption">4 handsome pandas (to change)</div>
+    <div class="caption">Group Picture(to change)</div>
 </div>
 
 #My name is Inigo Montoya. I have the following qualities:
