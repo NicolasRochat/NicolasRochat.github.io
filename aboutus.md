@@ -13,21 +13,21 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
 </div>
 
 <div class="container" style="align: center; text-align:center">
-    <div class="column">
-      <img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-      <div class="caption">Bastien</div>
-    </div>
-    <div class"column">
-       <img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-       <div class="caption">Noe</div>
-    </div>       
-    <div class"column">
-      <img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-      <div class="caption">Nicolas</div>
-    </div>      
-    <div class"column">
-      <img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-      <div class="caption">Baptiste</div>
-    </div>
+  <div class="column">
+    <img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+    <div class="caption">Bastien</div>
+  </div>
+  <div class"column">
+     <img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+     <div class="caption">Noe</div>
+  </div>       
+  <div class"column">
+    <img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+    <div class="caption">Nicolas</div>
+  </div>      
+  <div class"column">
+    <img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+    <div class="caption">Baptiste</div>
+  </div>
 </div>
 
