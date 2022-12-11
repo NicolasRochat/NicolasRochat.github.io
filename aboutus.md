@@ -21,16 +21,21 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
   <li>Baptiste Michel:</li>
 </ul>
 
-<div class="col-4 col-12-mobilep">
-    <img src="/assets/img/bastien.jpg" alt="Bastien" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/bastien.jpg" alt="Bastien" style="width:100%; max-width: 100px; max-height:100px">
     <div class="content">Bastien<div/>
-        
-    <img src="/assets/img/noe.jpg" alt="Noe" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
+  </div>
+  <div class="column">
+    <img src="/assets/img/noe.jpg" alt="Noe" style="width:100%; max-width: 100px; max-height:100px">
     <div class="content">Noe<div/>
-        
-    <img src="/assets/img/nicolas.jpg" alt="Nicolas" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
+  </div>
+  <div class="column">
+    <img src="/assets/img/nicolas.jpg" alt="Nicolas" style="width:100%; max-width: 100px; max-height:100px">
     <div class="content">Nicolas<div/>
-        
-    <img src="/assets/img/baptiste.jpg" alt="Baptiste" style="width: auto; height: auto; max-width: 100px; max-height:100px" class="portrait">
+  </div>
+  <div class="column">
+    <img src="/assets/img/baptiste.jpg" alt="Baptiste" style="width:100%; max-width: 100px; max-height:100px">
     <div class="content">Baptiste<div/>
-<div/>
+  </div>
+</div>
