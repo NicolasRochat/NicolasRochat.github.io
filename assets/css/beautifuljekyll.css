@@ -10,8 +10,8 @@ html {
   font-size: 100%
 }
 
-.column {
-  flex: 24%;
+.row {
+  width: 24%;
   padding: 5px;
 }
 
