@@ -16,8 +16,10 @@ html {
 }
 
 .container {
-  align-items: center; 
-  float: left;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  align-items: stretch;
 }
 
 img.portrait {
@@ -26,6 +28,7 @@ img.portrait {
   filter: grayscale(100%);
   display: grid;
   grid-template-columns:20% 20% 20% 20%;
+  align-items: center;
 }
 
 body {
