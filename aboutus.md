@@ -8,13 +8,9 @@ cover-img: "/assets/img/panda.jpg"
 We are four Applied Data Analysts concerned by beer reviews around the world. Each beer is unique and everyone has requirements on the appearance, aroma, palate, and taste for a good beer.
 
 <div style="align: center; text-align:center;">
-    <img src="/assets/img/group.jpg" alt="4 handsome pandas" width="80%" height="80%"/>
+    <img src="/assets/img/group.jpg" caption="4 handsome pandas" width="80%" height="80%"/>
     
 </div>
-
-.caption {
-    text-align: center;
-}
 
 
 #My name is Inigo Montoya. I have the following qualities:
