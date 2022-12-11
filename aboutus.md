@@ -11,11 +11,6 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ea
     <img src="/assets/img/group.jpg" width="60%" height="60%"/>
     <div class="caption">4 handsome pandas</div>
 </div>
-.caption {
-    text-align: center;
-}
-
-
 
 #My name is Inigo Montoya. I have the following qualities:
 
