@@ -12,20 +12,20 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
   <div class="caption">Group Picture (to change)</div>
 </div>
 
-<div class="container" style="align: center; text-align:center">
-  <div class="column">
+<div class="container">
+  <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait">
     <div class="caption">Bastien</div>
   </div>
-  <div class="column">
+  <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait">
     <div class="caption">Noe</div>
   </div>       
-  <div class="column">
+  <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait">
     <div class="caption">Nicolas</div>
   </div>      
-  <div class="column">
+  <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait">
     <div class="caption">Baptiste</div>
   </div>
