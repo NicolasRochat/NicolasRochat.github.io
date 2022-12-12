@@ -20,7 +20,10 @@ html {
 .column {
   width: 90%;
   padding: 5px;
-  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  align-items: stretch;
 }
 
 .container {
