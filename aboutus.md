@@ -23,7 +23,7 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
   </div>       
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-    <div class="caption" style="text-align:center">>Nicolas</div>
+    <div class="caption" style="text-align:center">Nicolas</div>
   </div>      
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait">
