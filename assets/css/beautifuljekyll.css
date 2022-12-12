@@ -19,7 +19,7 @@ html {
 
 .column {
   padding: 5px;
-  display: center;
+  #display: fetch;
   flex-wrap: wrap;
   box-sizing: border-box;
 }
