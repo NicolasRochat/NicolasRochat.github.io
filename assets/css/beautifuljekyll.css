@@ -30,6 +30,7 @@ html {
   width:90%;
   display: grid;
   grid-template-columns:auto auto auto auto;
+  align: center;
 }
 
 img.portrait {
