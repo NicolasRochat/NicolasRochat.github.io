@@ -19,7 +19,7 @@ html {
 
 .column {
   padding: 5px;
-  #display: fetch;
+  display: center;
   flex-wrap: wrap;
   box-sizing: border-box;
 }
@@ -29,7 +29,6 @@ html {
   display: grid;
   grid-template-columns:25% 25% 25% 25%;
   align-items: center;
-  align: center;
 }
 
 img.portrait {
