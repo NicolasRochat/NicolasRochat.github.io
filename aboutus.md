@@ -12,7 +12,7 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
   <div class="caption">Group Picture (to change)</div>
 </div>
 
-<div class="container">
+<div class="container" style="align: center">
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait">
     <div class="caption" style="text-align:center">Bastien</div>
