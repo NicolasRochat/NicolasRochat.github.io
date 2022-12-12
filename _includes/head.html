@@ -54,11 +54,12 @@
     {% endfor %}
   {% endif %}
 
-  {% if layout.common-css %}
-    {% for css in layout.common-css %}
+  if layout.common-css
+    for css in layout.common-css
       <link rel="stylesheet" href="{{ css | relative_url }}">
-    {% endfor %}
-  {% endif %}
+      <link rel="shortcut icon" type="./assets/img" href="favicon.jpg">
+    endfor
+  endif
 
   {% if site.site-css %}
     {% for css in site.site-css %}
