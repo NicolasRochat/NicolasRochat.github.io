@@ -3,7 +3,7 @@ layout: home
 title: Beer Reviews
 cover-img: "/assets/img/beer.jpg"
 ---
-![ Image description ](/images/image.jpg "Caption"){ width=50% }{: .center-image-caption}
+->![ Image description ](/images/image.jpg "Caption"){ width=50% }<-
 
 ## Abstract/introduction sur bières
 ## mettre 1-2 graphes sur premières analyses(nombre bières, styles préférés etc…)
