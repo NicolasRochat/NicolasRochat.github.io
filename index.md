@@ -5,7 +5,7 @@ cover-img: "/assets/img/beer.jpg"
 ---
 
 ![ Image description ](./images/image.jpg){:style="display: block; margin-left: auto; margin-right: auto;" width="200"}
-*Figure: Example*
+<p style="text-align: center;"><i>Figure: example</i>text</p>
 
 ## Abstract/introduction sur bières
 ## mettre 1-2 graphes sur premières analyses(nombre bières, styles préférés etc…)
