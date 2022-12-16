@@ -7,7 +7,7 @@ cover-img: "/assets/img/beer.jpg"
 ## Abstract/introduction sur bières
 ## mettre 1-2 graphes sur premières analyses(nombre bières, styles préférés etc…)
 
-![ Image description ](./images/image.jpg){:style="display: block; margin-left: auto; margin-right: auto;" width="200"}
+![ Image description ](./images/image.jpg){:width="400" style="display: block; margin-left: auto; margin-right: auto;"}
 <center><i>Figure: example</i></center>
 
 ## Introduire api: montrer graphes qu’on obtient avec positions des brasseries, expliquer combien ont été discard car mal placés, montrer clusters par ville, ## combien de brasseries classifiées en ville et hors de villes? etc…
