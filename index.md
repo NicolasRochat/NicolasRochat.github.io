@@ -13,17 +13,17 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Goal
 
-Throughout this project, we will try to give some tools for brewers to help them to choose the location of their future brewery.
+&nbsp;&nbsp;&nbsp;&nbsp Throughout this project, we will try to give some tools for brewers to help them to choose the location of their future brewery.
 
 ## Research questions
 
-Is a brewery inside a city more inclined to be successful?
+&nbsp;&nbsp;&nbsp;&nbsp Is a brewery inside a city more inclined to be successful?
 
-Which regions are more conducive to which style of beer?
+&nbsp;&nbsp;&nbsp;&nbsp Which regions are more conducive to which style of beer?
 
 ## Methodology
 
-RateBeer
+&nbsp;&nbsp;&nbsp;&nbsp RateBeer
 
 ## Introduire api: montrer graphes qu’on obtient avec positions des brasseries, expliquer combien ont été discard car mal placés, montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc…
 
