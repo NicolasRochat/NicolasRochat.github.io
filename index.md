@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Beer Reviews
-subtitle: Research question
+subtitle: Location of Brewery
 cover-img: "/assets/img/beer.jpg"
 ---
 
