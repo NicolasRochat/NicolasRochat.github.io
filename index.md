@@ -6,7 +6,22 @@ cover-img: "/assets/img/beer.jpg"
 ---
 
 
-## Abstract/introduction sur bières, mettre 1-2 graphes sur premières analyses(nombre bières, styles préférés etc…)
+## Motivation
+
+Breweries are becoming more and more popular nowadays, each of them proposing beers with unique flavors. Appreciated by casual beer drinkers and craft beer enthusiasts, beers happen to be a thriving market. A rising amount of new breweries have emerged in the last decades. The choice of location of the brewery is a significant step when starting a brewery. 
+There are several factors to consider when choosing a location for a brewery such as the access to raw materials (water, hops, barley, and yeast), the proximity to customers, zoning laws and regulations, costs of renting or buying property, and competition with other breweries.  
+
+## Goal
+
+The goal of this project is to give tools for brewers to help them to choose the location of their future brewery.
+
+## Research questions
+
+Is a brewery inside a city more inclined to be successful?
+
+Which regions are more conducive to which style of beer?
+
+## Methodology
 
 ## Introduire api: montrer graphes qu’on obtient avec positions des brasseries, expliquer combien ont été discard car mal placés, montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc…
 
