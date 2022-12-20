@@ -8,7 +8,7 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Motivation
 
-Breweries are becoming more and more popular nowadays, each of them proposing beers with unique flavors. Appreciated by casual beer drinkers and craft beer enthusiasts, beers happen to be a thriving market. A rising amount of new breweries have emerged in the last decades. When starting a brewery, the choice of location of the brewery is a significant step. 
+Breweries are becoming more and more popular nowadays, each of them proposing beers with unique flavors. Appreciated by casual beer drinkers and craft beer enthusiasts, beers happen to be a thriving market. A rising amount of new breweries have emerged in the last decades. When starting a new brewery, the choice of location of the brewery is a significant step to make it successful.  
 There are several factors to consider when choosing a location for a brewery such as the access to raw materials (water, hops, barley, and yeast), the proximity to customers, zoning laws and regulations, costs of renting or buying property, and competition with other breweries.  
 
 ## Goal
