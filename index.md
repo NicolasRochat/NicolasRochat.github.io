@@ -25,6 +25,8 @@ cover-img: "/assets/img/beer.jpg"
 
 &nbsp;&nbsp;&nbsp;&nbsp; RateBeer
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12232997"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Introduire api: montrer graphes qu’on obtient avec positions des brasseries, expliquer combien ont été discard car mal placés, montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc…
 
 ![ Image description ](./images/image.jpg){:width="400" style="display: block; margin-left: auto; margin-right: auto;"}
