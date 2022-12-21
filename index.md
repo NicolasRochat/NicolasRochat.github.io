@@ -28,19 +28,23 @@ cover-img: "/assets/img/beer.jpg"
 - ratings across different aspects: appearance, aroma, palate, taste
 - textual review
 
+&nbsp;&nbsp;&nbsp;&nbsp; Histogram of reviews (to add)
+
 &nbsp;&nbsp;&nbsp;&nbsp; Basic analysis on those datas shows the different appreciations on beer styles. The most prefered one is imperial stout with a mean rating of 3,85. The less prefered one is malt liquor with a mean rating of 1,92.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12232997"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of breweries with API queries. 
 
-## Introduire api: montrer graphes qu’on obtient avec positions des brasseries, expliquer combien ont été discard car mal placés, montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc…
+## Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
 
-## Montrer graphes/plots bières préférées par style et par brasseries? (discard breweries/beers with less than x reviews?)
-
-## Montrer résultats obtenues avec Kmeans clustering pour grouper bières en catégories? Les comparer avec catégories faites à la main?
-
-## Comparer notes brasseries villes en dehors ville? Statistical significance entre les 2?
+## Comparer notes brasseries villes en dehors ville (binaire: dedans ou pas / ou par rapport à la distance à cette ville)? Statistical significance entre les 2?
 
 ## KNN par brasserie, pour identifier régions plus propices à telle ou telle style?
+
+## Faire carte d’exemple de données avec polygon ville, point centre-ville, brasseries (incluant au minimum sa note moyenne, son meilleur style de bière et sa distance au centre)
+
+## Map interactive de toutes les brasseries
+
+## Produire Heatmap propre de l’europe qui met en évidence les villes et la densité (mais pas les brasseries)
 
