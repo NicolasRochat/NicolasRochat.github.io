@@ -24,7 +24,7 @@ cover-img: "/assets/img/beer.jpg"
 ## Methodology
 
 &nbsp;&nbsp;&nbsp;&nbsp; We used a dataset on beer reviews provided by RateBeer website which collected over 7 millions reviews for a period of 17 years (2001-2017). It includes :
-- metadata about 442’081 beers, 24’189 breweries, and 70’120 users
+- metadata about 442k beers, 24k breweries, and 70k users
 - ratings across different aspects: appearance, aroma, palate, taste
 - textual review
 
