@@ -36,9 +36,6 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Introduire api: montrer graphes qu’on obtient avec positions des brasseries, expliquer combien ont été discard car mal placés, montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc…
 
-![ Image description ](./images/image.jpg){:width="400" style="display: block; margin-left: auto; margin-right: auto;"}
-<center><i>Figure: example</i></center>
-
 ## Montrer graphes/plots bières préférées par style et par brasseries? (discard breweries/beers with less than x reviews?)
 
 ## Montrer résultats obtenues avec Kmeans clustering pour grouper bières en catégories? Les comparer avec catégories faites à la main?
