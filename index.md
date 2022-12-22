@@ -37,6 +37,7 @@ cover-img: "/assets/img/beer.jpg"
 &nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of breweries with API queries. 
 
 ## Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
+&nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of breweries with API queries.
 
 ## Comparer notes brasseries villes en dehors ville (binaire: dedans ou pas / ou par rapport à la distance à cette ville)? Statistical significance entre les 2?
 
