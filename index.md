@@ -59,6 +59,8 @@ The correlation is clearly low, as moving one kilometer away from the city cente
 
 
 ### Barplot nombre de reviews par location user pour montrer confounder
+![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="500"}
+<center><i>Figure: example</i></center>
 
 ### carte de munich avec cercles d'éloignements
 ### linear regression sur Munich
