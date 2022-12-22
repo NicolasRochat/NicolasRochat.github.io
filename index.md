@@ -13,7 +13,7 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Goal
 
-&nbsp;&nbsp;&nbsp;&nbsp; Throughout this project, we will try to give some tools for brewers to help them to choose the location of their future brewery.
+&nbsp;&nbsp;&nbsp;&nbsp; Throughout this project, we will try to give some tools for brewers to help them to choose the location of their future brewery by answering some research questions.
 
 ## Research questions
 
