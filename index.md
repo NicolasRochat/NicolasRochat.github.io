@@ -41,13 +41,14 @@ cover-img: "/assets/img/beer.jpg"
 ## Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
 &nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded, i.e., (2555 breweries). After that step, the breweries that were classified in the wrong country where also removed (XXX breweries) and we considered that the rest of the breweries where correctly classified. Then, using a shapefile that had the major cities in the world (i.e XXX cities), it was possible to extract which breweries where inside of a city and which breweries where outside of a city. Thiss resulted in XXX breweries in the city and XXX breweries outside of the city.
 
-## Comparer notes brasseries villes en dehors ville (binaire: dedans ou pas / ou par rapport à la distance à cette ville)? Statistical significance entre les 2?
 
-## KNN par brasserie, pour identifier régions plus propices à telle ou telle style?
 
-## Faire carte d’exemple de données avec polygon ville, point centre-ville, brasseries (incluant au minimum sa note moyenne, son meilleur style de bière et sa distance au centre)
+### Boxplot rating comparison ville/campagne
+### carte de densité brasseries
 
-## Map interactive de toutes les brasseries
+### Linear-regression rating ville/campagne en fonction de la distance
+### Barplot nombre de reviews par location user pour montrer confounder
 
-## Produire Heatmap propre de l’europe qui met en évidence les villes et la densité (mais pas les brasseries)
+### carte de munich avec cercles d'éloignements
+### linear regression sur Munich
 
