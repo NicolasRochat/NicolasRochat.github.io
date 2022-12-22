@@ -28,7 +28,9 @@ cover-img: "/assets/img/beer.jpg"
 - ratings across different aspects: appearance, aroma, palate, taste
 - textual review
 
-&nbsp;&nbsp;&nbsp;&nbsp; Histogram of reviews (to add)
+&nbsp;&nbsp;&nbsp;&nbsp; Heatmap of reviews
+
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/12245524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 &nbsp;&nbsp;&nbsp;&nbsp; Basic analysis on those datas shows the different appreciations on beer styles. The most prefered one is imperial stout with a mean rating of 3,85. The less prefered one is malt liquor with a mean rating of 1,92.
 
