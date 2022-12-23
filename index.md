@@ -72,7 +72,7 @@ The boxplot shows us a small difference in rating between urban and rural brewer
   </tr>
 </table>
 
-The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. This tendency is less noticed with rural breweries.
+The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. In fact, the huge majority of outliers, more than 90% of them, are "black sheeps" ones as they are below the minimum line of the boxplot. Hence, breweries not in the average cluster tend to perform bad more often than god. This tendency is also noticed with rural breweries, but the ratio of them beeing outliers is smaller, therefore rural breweries are less often "very bad". That's +1 for rural beer factories.
 
 
 ### carte de densité brasseries
