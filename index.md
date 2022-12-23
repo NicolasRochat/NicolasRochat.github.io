@@ -147,7 +147,7 @@ The next plot shows us the same, but with all brewery styles. What's interesting
 Now let's see what differences can be found between our two locations. We computed the differences between the number of urban and rural breweries for every style, divided by the number of breweries in each case. We also removed styles that had too few occurances as they wer not significant. This plot shows those differences in percentage of increase, meaning for example that Zwickel, Keller und Landbier occur ~four times more as the best style of remote breweries than main cities' breweries. 
 
 ![ Image description ](./images/Average_diff_beer_styles.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
-
+<center><i>Figure: Average differences in beer styles: urban and rural breweries centre</i></center>
 
 
 
