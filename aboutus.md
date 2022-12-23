@@ -13,19 +13,19 @@ We are four Applied Data Analysts from environmental engineering eager to learn 
 </div>
 <div class="container" style="align: center">
   <div class="column" style="align: center; text-align:center">
-    <a href="https://www.instagram.com/bastien_adz/"><img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+    <a href="https://www.instagram.com/bastien_adz/"><img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait"></a>
     <div class="caption" style="align: center; text-align:center"><b>Bastien</b><br />Storyteller</div>
   </div>
   <div class="column" style="align: center; text-align:center">
-    <a href="https://www.instagram.com/noefellay/"><img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+    <a href="https://www.instagram.com/noefellay/"><img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait"></a>
     <div class="caption" style="align: center; text-align:center"><b>Noe</b><br />Mapper</div>
   </div>       
   <div class="column" style="align: center; text-align:center">
-    <a href="https://www.instagram.com/nico_swissbiker/"><img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+    <a href="https://www.instagram.com/nico_swissbiker/"><img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait"></a>
     <div class="caption" style="align: center; text-align:center"><b>Nicolas</b><br />Webmaster</div>
   </div>      
   <div class="column" style="align: center; text-align:center">
-    <img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait">
+     <a href="https://www.youtube.com/watch?v=l73rmrLTHQc"><img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait"></a>
     <div class="caption" style="align: center; text-align:center"><b>Baptiste</b><br />Analyst</div>
   </div>
 </div>
