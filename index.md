@@ -13,7 +13,7 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Goal
 
-&nbsp;&nbsp;&nbsp;&nbsp; This projects aims to give advice to new brewers and indicate if they should install themselves in a crowded city or in the calm countryside. A look will also be given into beer styles and what differences can be found between beer crafted in urban area and in rural area.
+&nbsp;&nbsp;&nbsp;&nbsp; This project aims to give advice to new brewers and indicate if they should install themselves in a crowded city or in the calm countryside. A look will also be given into beer styles and what differences can be found between beer crafted in urban area and in rural area.
 
 ## Research questions
 
