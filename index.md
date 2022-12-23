@@ -42,8 +42,9 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Methodology
 
-### Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
-&nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded, i.e., (2555 breweries). After that step, the breweries that were classified in the wrong country where also removed (XXX breweries) and we considered that the rest of the breweries where correctly classified. Then, using a shapefile that had the major cities in the world (i.e XXX cities), it was possible to extract which breweries where inside of a city and which breweries where outside of a city. Thiss resulted in XXX breweries in the city and XXX breweries outside of the city.
+&nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded. In a second step, all the breweries classified in the wrong countries have also been removed. All the other breweries where considered as correctly classified for the analysis. Using a shapefile which had the major cities in the world (6018), it was then possible to determine how many breweries are inside a city and how many breweries are outside of a city. Moreover, the beers which had less than 3 reviews have also been removed in order to avoid biased ratings.
+
+
 
 ### Distance to the closest city
 &nbsp;&nbsp;&nbsp;&nbsp; The next data thats needs to be found is the distance of each brewery to the closest city around it. To compute it, the position of the 6000 of the biggest cities of the world, including capitals end major cities from every country were needed. 
@@ -77,7 +78,7 @@ The boxplot shows us a small difference in rating between urban and rural brewer
   </tr>
 </table>
 
-The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. In fact, the huge majority of outliers, more than 90% of them, are "black sheeps" ones as they are below the minimum line of the boxplot. Hence, breweries not in the average cluster tend to perform bad more often than god. This tendency is also noticed with rural breweries, but the ratio of them beeing outliers is smaller, therefore rural breweries are less often "very bad". That's +1 for rural beer factories.
+The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. In fact, the huge majority of outliers, more than 90% of them, are "black sheeps" ones as they are below the minimum line of the boxplot. Hence, breweries not in the average cluster tend to perform bad more often than good. This tendency is also noticed with rural breweries, but the ratio of them beeing outliers is smaller, therefore rural breweries are less often "very bad". That's +1 for rural beer factories.
 
 ![ Image description ](./images/dens_map_europe_labels.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: Density map of breweries across Europe</i></center>
@@ -120,7 +121,7 @@ This analysis was also performed in Munich and Zurich and no significant results
 ## Beer styles location analysis
 &nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews's metadata, we can highlight net differences between beer styles produced in urban and in rural areas. This could be explained by brewing traditions, different tastes in beer drinkers or availability of raw materials for example. <br />
 To get a sense of the favorite styles per location, we calculated the favorite beer style produced by each brewery.
-On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as theit best style according to their customers.
+On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as their best style according to their customers.
 
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
@@ -136,7 +137,10 @@ Now let's see what differences can be found between our two locations. We comput
 <center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
 
 
-Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
+Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29. The plot below shows that the beers are rated much better in North America than in Africa.
+
+![ Image description ](./images/country.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
 
 
 ## Conclusion
