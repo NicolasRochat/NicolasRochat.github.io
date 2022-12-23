@@ -93,5 +93,9 @@ Our reviews are mostly coming from the other side of the Atlantic. The Americans
 
 
 ### carte de munich avec cercles d'éloignements
+
+![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: example</i></center>
+
 ### linear regression sur Munich
 
