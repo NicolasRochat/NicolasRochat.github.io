@@ -27,6 +27,7 @@ cover-img: "/assets/img/beer.jpg"
 - ratings across different aspects: appearance, aroma, palate, taste
 - textual review
 
+&nbsp;&nbsp;&nbsp;&nbsp; The distribution of reviews on different styles over time allow us to observe that between 2013 and 2016 India Pale Ale (IPA), Imperial Stout, Imperial IPA, and American Pale Ale recieved the major part of reviews.
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/12245524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -34,7 +35,7 @@ cover-img: "/assets/img/beer.jpg"
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12232997"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of the breweries all over the world with Google Maps API. 
+&nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of the breweries all over the world with Google Maps API. The following interactive map shows the density of breweries around the world with two main clusters on United States of America and Europe.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/12253983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
