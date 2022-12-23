@@ -99,9 +99,9 @@ For this case study, we'll take a look at the wonderful city of Brussels with it
 ![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: Map of Brussels with local small breweries</i></center>
 
-The breweries are categorized into three sets. 
-In the old city centre: 0-2 km
-Further into the city: 0-15 km
+The breweries are categorized into three sets. <\br>
+In the old city centre: 0-2 km<\br>
+Further into the city: 0-15 km<\br>
 In the periphery of Brussels: 15-50 km
 
 Those categories are displayed as circles on the above figure.
