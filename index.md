@@ -92,12 +92,12 @@ It's interesting to take a look at which users are rewieving the beers, as that 
 <center><i>Figure: example</i></center>
 
 ## Case study: small breweries in Brussels
-So it seems that globally, no trend can be found with the remoteness of breweries. But what about it on a local scale ?
+&nbsp;&nbsp;&nbsp;&nbsp; So it seems that globally, no trend can be found with the remoteness of breweries. But what about it on a local scale ?
 And couldn't this effect be linked to the size and relative popularity of breweries ?
 For this case study, we'll take a look at the wonderful city of Brussels with its many breweries. To take only small businesses into account, we select breweries with fewer than 100 reviews and in a 50 kilometers radius around the city centre, which brings us to a sample of 103 points.
 
 ![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
+<center><i>Figure: Map of Brussels with local small breweries</i></center>
 
 The breweries are categorized into three sets. 
 In the old city centre: 0-2 km
@@ -111,7 +111,7 @@ A linear regression was performed, both directly between the mean rating and the
 In both cases, the p-values indicates that we can't reject our null hypothesis.
 
 ![ Image description ](./images/scatter_brussel_cat_leg.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
+<center><i>Figure: Linear regression between the breweries mean rating and their distance to Brussels' centre</i></center>
 
 This analysis was also performed in Munich and Zurich and no significant results were found either.
 
@@ -125,7 +125,7 @@ THIS IS A TEST
 <center><i>Figure: example</i></center>
 
 ![ Image description ](./images/Average_diff_beer_styles.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
+<center><i>Figure: Example</i></center>
 
 
 Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
