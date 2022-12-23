@@ -93,6 +93,8 @@ It's interesting to take a look at which users are rewieving the beers, as that 
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
+THIS IS A TEST
+
 ![ Image description ](./images/Fav_Style_b.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
