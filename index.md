@@ -59,10 +59,9 @@ It's possible to see better the cluster of breweries forming cities for Europe o
 &nbsp;&nbsp;&nbsp;&nbsp; The next data thats needs to be found is the distance of each brewery to the closest city around it. To compute it, the position of the 6000 of the biggest cities of the world, including capitals end major cities from every country were needed. 
 
 
+Now that we have all what we need, we can begin to show what the data looks like.
 
-Now that we have all what we need, we can begin to show what the data look like.
-
-
+## Data Analysis
 ![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 
 The boxplot shows us a small difference in rating between urban and rural breweries, nothing significant enough to prove a difference in quality between both. The analysis of the outliers tells us the following:
