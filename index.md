@@ -47,6 +47,9 @@ cover-img: "/assets/img/beer.jpg"
 
 ### Boxplot rating comparison ville/campagne
 
+### Linear-regression rating ville/campagne en fonction de la distance
+![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="500"}
+<center><i>Figure: example</i></center>
 
 
 ### carte de densité brasseries
