@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Brew-tiful spotfinder
+title: Brew-tiful Spots
 subtitle: Where should you install your brewery based on beer reviews ? In the countryside or in a city?
 cover-img: "/assets/img/beer.jpg"
 ---
