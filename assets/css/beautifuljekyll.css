@@ -32,7 +32,6 @@ table.center {
 img.portrait {
   padding: 5px;
   border-radius: 50%;
-  filter: grayscale(100%);
 }
 
 body {
