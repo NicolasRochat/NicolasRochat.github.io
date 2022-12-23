@@ -128,7 +128,7 @@ In both cases, the p-values indicates that we can't reject our null hypothesis.
 This analysis was also performed in Munich and Zurich and no significant results were found either.
 
 ## Beer styles location analysis
-&nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews's metadata, we can highlight net differences between beer styles produced in urban and in rural areas. This could be explained by brewing traditions, different tastes in beer drinkers or availability of raw materials for example. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews' metadata, we can highlight net differences between beer styles produced in urban and in rural areas. This could be explained by brewing traditions, different tastes in beer drinkers or availability of raw materials for example. <br />
 
 To get a sense of the favorite styles per location, we calculated the favorite beer style produced by each brewery.
 On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as their best style according to their customers.
