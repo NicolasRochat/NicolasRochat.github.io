@@ -51,11 +51,10 @@ cover-img: "/assets/img/beer.jpg"
 
 
 
-### Boxplot rating comparison ville/campagne
+### Boxplot rating comparison between urban and rural breweries
 
 
 ![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
 
 The boxplot shows us a small difference in rating between urban and rural breweries, nothing significant enough to prove a difference in quality between both. The analysis of the outliers tells us the following:
 
@@ -85,14 +84,12 @@ The urban breweries induce more one-sided opinions, which means that they more o
 
 ### Linear-regression rating ville/campagne en fonction de la distance
 ![ Image description ](./images/Correlation_city_center_rating.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
 
 The correlation is clearly low, as moving one kilometer away from the city center changes the rating of the brewery of 0.001, which is equal to a change of 0.1 per 100km of distance from the closest city center. The city considered are often pretty big, which can results in a large distance from the city center even for breweries located inside the cities. The average distance from the nearest city center for rural and urban breweries is **45.27km** and **10.13km** respectively, which is not that a big difference.  
 
 
-### Barplot nombre de reviews par location user pour montrer confounder
+### Barplot to illustrate the possible cofounders
 ![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
 
 It's interesting to take a look at which users are rewieving the beers, as that might influence the results in favor of one party or another. Here is a plot with the 4 countries that rated the most beers. Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is 3.39, and the average rating for total reviews is 3.11. The plot below shows that the beers are rated much better in North America than in Africa. But is that because breweries are better in America or is it because Americans rate breweries better ? Maybe another group answered this interesting question, but we always have to be aware that some cofounding factors may exist.
 
@@ -128,12 +125,11 @@ To get a sense of the favorite styles per location, we calculated the favorite b
 On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as their best style according to their customers.
 
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
 
-THIS IS A TEST -> enlever ce graphe ?
+
 
 ![ Image description ](./images/Fav_Style_b.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
+
 
 Now let's see what differences can be found between our two locations. We computed the differences between the number of urban and rural breweries for every style, divided by the number of breweries in each case. We also removed styles that had too few occurances as they wer not significant. This plot shows those differences in percentage of increase, meaning for example that Zwickel, Keller und Landbier occur ~four times more as the best style of remote breweries than main cities' breweries. 
 
