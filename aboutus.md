@@ -28,5 +28,4 @@ We are four Applied Data Analysts from environmental engineering eager to learn 
     <div class="caption" style="align: center; text-align:center"><b>Baptiste</b><br />Analyst</div>
   </div>
 </div>
-<p>poulet test</p>
 
