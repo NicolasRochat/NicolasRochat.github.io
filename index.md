@@ -118,25 +118,29 @@ In both cases, the p-values indicates that we can't reject our null hypothesis.
 This analysis was also performed in Munich and Zurich and no significant results were found either.
 
 ## Beer styles location analysis
-&nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews's metadata, we 
+&nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews's metadata, we can highlight net differences between beer styles produced in urban and in rural areas. This could be explained by brewing traditions, different tastes in beer drinkers or availability of raw materials for example. <br />
+To get a sense of the favorite styles per location, we calculated the favorite beer style produced by each brewery.
+On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as theit best style according to their customers.
 
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
-THIS IS A TEST
+THIS IS A TEST -> enlever ce graphe ?
 
 ![ Image description ](./images/Fav_Style_b.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
+Now let's see what differences can be found between our two locations. We computed the differences between the number of urban and rural breweries for every style, divided by the number of breweries in each case. We also removed styles that had too few occurances as they wer not significant. This plot shows those differences in percentage of increase, meaning for example that Zwickel, Keller und Landbier occur ~four times more as the best style of remote breweries than main cities' breweries. 
+
 ![ Image description ](./images/Average_diff_beer_styles.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: Example</i></center>
+<center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
 
 
 Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
 
 
 ## Conclusion
-So what ? <br />
+&nbsp;&nbsp;&nbsp;&nbsp; So what ? <br />
 Where sould you put your brand new brewery and your plans to craft specialty beer from your region ? <br />
 Well good news, it doesn't matter if you chose to install yourself in the city or 50km outside of it, at least on how your beers may be appreciated. Other factors, such as the rent, access to clean water, if you want to build a taproom and if you're Head Brewer has a sens of taste for example, all have their importance ! But as long as you find spots and bars to sell your beers, it doesn't matter where you're located. <br />
 However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if you're star beer is suppose to be an Imperial Stout, then you have statitically better chances in the cities.
