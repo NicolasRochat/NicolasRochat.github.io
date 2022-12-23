@@ -9,7 +9,7 @@ We are four Applied Data Analysts concerned by beer reviews around the world. Ch
 
 <div style="align: center; text-align:center;">
   <img src="/assets/img/team_sustainablepandas.jpg" width="60%" height="60%"/>
-  <div class="caption">Group Picture (to change)</div>
+  <div class="caption">Field Studies at Sat</div>
 </div>
 
 <div class="container" style="align: center">
