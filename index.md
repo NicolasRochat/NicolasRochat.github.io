@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Brewery locations
+title: Brew-tiful spotfinder
 subtitle: Where should you install your brewery based on beer reviews ? In the countryside or in a city?
 cover-img: "/assets/img/beer.jpg"
 ---
@@ -147,7 +147,6 @@ The next plot shows us the same, but with all brewery styles. What's interesting
 Now let's see what differences can be found between our two locations. We computed the differences between the number of urban and rural breweries for every style, divided by the number of breweries in each case. We also removed styles that had too few occurances as they wer not significant. This plot shows those differences in percentage of increase, meaning for example that Zwickel, Keller und Landbier occur ~four times more as the best style of remote breweries than main cities' breweries. 
 
 ![ Image description ](./images/Average_diff_beer_styles.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
-<center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
 
 
 
@@ -158,5 +157,5 @@ Where sould you put your brand new brewery and your plans to craft specialty bee
 
 Well good news, it doesn't matter if you chose to install yourself in the city or 50km outside of it, at least on how your beers may be appreciated. Other factors, such as the rent, access to clean water, if you want to build a taproom and if you're Head Brewer has a sens of taste for example, all have their importance ! But as long as you find spots and bars to sell your beers, it doesn't matter where you're located. <br />
 
-However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if you're star beer is supposed to be an Imperial Stout, then you have statitically better chances in the cities.
+However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if your star beer is supposed to be an Imperial Stout, then you have statistically better chances in the cities.
 
