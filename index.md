@@ -89,6 +89,17 @@ It's interesting to take a look at which users are rewieving the beers, as that 
 ![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
+### Plots sur les style
+![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: example</i></center>
+
+![ Image description ](./images/Fav_Style_b.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: example</i></center>
+
+![ Image description ](./images/Average_diff_beer_styles.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: example</i></center>
+
+
 Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
 
 
