@@ -106,7 +106,7 @@ THIS IS A TEST
 
 Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
 
-
+### Case study: small breweries in Brussels
 
 ![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
@@ -114,5 +114,8 @@ Our reviews are mostly coming from the other side of the Atlantic. The Americans
 ![ Image description ](./images/scatter_brussel_cat_leg.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
-### linear regression sur Munich
+### Conclusion
+So what ? Where sould you put your brand new brewery and your plans to craft specialty beer from your region ?
+Well good news, it doesn't matter if you chose to install yourself in the city or 50km outside of it, at least on how your beers may be appreciated. Other factors, such as the rent, access to clean water, if you want to build a taproom and if you're Head Brewer has a sens of taste for example, all have their importance ! But as long as you find spots and bars to sell your beers, it doesn't matter where you're located.
+However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if you're star beer is suppose to be an Imperial Stout, then you have statitically better chances in the cities.
 
