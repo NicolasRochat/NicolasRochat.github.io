@@ -71,18 +71,6 @@ The boxplot shows us a small difference in rating between urban and rural brewer
     <th>3.54 %</th>
   </tr>
 </table>
-  
-  
-  
-  
-<table class="center">
-  
-|                            | Urban | Rural      |
-|----------------------------|:-----:|-----------:|
-| Number of outliers         |  344 |        182 |
-| Pourcentage of outliers    |  6.58 % |          3.54 %|
-  
-</table>
 
 The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. This tendency is less noticed with rural breweries.
 
