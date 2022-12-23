@@ -1,31 +1,30 @@
 ---
 layout: home
-title: Beer Reviews
-subtitle: Location of Brewery
+title: Brewery locations
+subtitle: Where should you install your brewery ?
 cover-img: "/assets/img/beer.jpg"
 ---
 
 ## Motivation
 
-&nbsp;&nbsp;&nbsp;&nbsp; Breweries are becoming more and more popular nowadays, each of them proposing beers with unique flavors. Appreciated by casual beer drinkers and craft beer enthusiasts, beers happen to be a thriving market. A rising amount of new breweries have emerged in the last decades. When starting a new brewery, the choice of location of the brewery is a significant step to guarantee its success.  
+&nbsp;&nbsp;&nbsp;&nbsp; Breweries are becoming more and more popular nowadays, each of them proposing beers with unique flavors. Appreciated by casual beer drinkers and craft beer enthusiasts, beers happen to be a thriving market. A rising amount of new breweries have emerged in the last decades.  When starting a new brewery, the choice of location of the brewery is a significant step to guarantee its success. 
 
-&nbsp;&nbsp;&nbsp;&nbsp; There are several factors to consider when choosing a location for a brewery such as the access to raw materials (water, hops, barley, and yeast), the proximity to customers, zoning laws and regulations, costs of renting or buying property, and competition with other breweries. For this project, we were interested to distinguish the difference between urban and rural breweries
+&nbsp;&nbsp;&nbsp;&nbsp; There are several factors to consider when choosing a location for a brewery such as the access to raw materials (water, hops, barley, and yeast), the proximity to customers, zoning laws and regulations, costs of renting or buying property, and competition with other breweries. For this project, we were interested to distinguish the difference between urban and rural breweries. 
 
 ## Goal
 
-&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp; This projects aims to give adice to new brewers and show if they should install themselves in a crowded city or in the calm countryside. A look will also be given into beer styles and what are differences can be found between beer crafted in urban area and in rural area.
 
 ## Research questions
 
-&nbsp;&nbsp;&nbsp;&nbsp; Are there major differences between urban and rural breweries? Does one of the two is better in general? Are there specific features related to urban or rural breweries?
+&nbsp;&nbsp;&nbsp;&nbsp; Are there major differences between urban and rural breweries? Do breweries in big cities perform better in general? Is it the same for small breweries ? Are there specific features related to urban or rural breweries?
 
+## Dataset description
 
-## Methodology
-
-&nbsp;&nbsp;&nbsp;&nbsp; We used a dataset on beer reviews provided by RateBeer website which collected over 7 millions reviews for a period of 17 years (2001-2017). It includes :
+&nbsp;&nbsp;&nbsp;&nbsp; We used a dataset on beer reviews provided by the RateBeer website which collected over 7 millions reviews for a period of 17 years (2001-2017). It includes :
 - metadata about 442k beers, 24k breweries, and 70k users
-- ratings across different aspects: appearance, aroma, palate, taste
-- textual review
+- ratings across different aspects: appearance, aroma, palate and taste
+- a textual review
 
 &nbsp;&nbsp;&nbsp;&nbsp; The distribution of reviews on different styles over time allow us to observe that between 2013 and 2016 India Pale Ale (IPA), Imperial Stout, Imperial IPA, and American Pale Ale recieved the major part of reviews.
 
@@ -38,6 +37,8 @@ cover-img: "/assets/img/beer.jpg"
 &nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of the breweries all over the world with Google Maps API. The following interactive map shows the density of breweries around the world with two main clusters on United States of America and Europe.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/12253983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Methodology
 
 ## Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
 &nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded, i.e., (2555 breweries). After that step, the breweries that were classified in the wrong country where also removed (XXX breweries) and we considered that the rest of the breweries where correctly classified. Then, using a shapefile that had the major cities in the world (i.e XXX cities), it was possible to extract which breweries where inside of a city and which breweries where outside of a city. Thiss resulted in XXX breweries in the city and XXX breweries outside of the city.
