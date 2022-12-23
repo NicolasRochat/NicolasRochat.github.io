@@ -53,7 +53,30 @@ cover-img: "/assets/img/beer.jpg"
 
 The boxplot shows us a small difference in rating between urban and rural breweries, nothing significant enough to prove a difference in quality between both. The analysis of the outliers tells us the following:
 
+
+<table>
+  <tr>
+    <th></th>
+    <th>Urban</th>
+    <th>Rural</th>
+  </tr>
+  <tr>
+    <th>Number of outliers</th>
+    <th>344</th>
+    <th>182</th>
+  </tr>
+  <tr>
+    <th>Percentage of outliers</th>
+    <th>6.58 %</th>
+    <th>3.54 %</th>
+  </tr>
+</table>
+  
+  
+  
+  
 <table class="center">
+  
 |                            | Urban | Rural      |
 |----------------------------|:-----:|-----------:|
 | Number of outliers         |  344 |        182 |
