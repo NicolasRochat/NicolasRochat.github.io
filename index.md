@@ -43,6 +43,11 @@ cover-img: "/assets/img/beer.jpg"
 
 <div class="flourish-embed flourish-map" data-src="visualisation/12253983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+It's possible to see better the cluster of breweries forming cities for Europe on the following map
+
+![ Image description ](./images/dens_map_europe_labels.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
+<center><i>Figure: Density map of breweries across Europe</i></center>
+
 ## Methodology
 
 &nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded. In a second step, all the breweries classified in the wrong countries have also been removed. All the other breweries where considered as correctly classified for the analysis. Using a shapefile which had the major cities in the world (6018), it was then possible to determine how many breweries are inside a city and how many breweries are outside of a city. Moreover, the beers which had less than 3 reviews have also been removed in order to avoid biased ratings.
@@ -54,7 +59,7 @@ cover-img: "/assets/img/beer.jpg"
 
 
 
-### Boxplot rating comparison between urban and rural breweries
+Now that we have all what we need, we can begin to show what the data look like.
 
 
 ![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
@@ -82,8 +87,7 @@ The boxplot shows us a small difference in rating between urban and rural brewer
 
 The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. In fact, the huge majority of outliers, more than 90% of them, are "black sheeps" ones as they are below the minimum line of the boxplot. Hence, breweries not in the average cluster tend to perform bad more often than good. This tendency is also noticed with rural breweries, but the ratio of them beeing outliers is smaller, therefore rural breweries are less often "very bad". That's +1 for rural beer factories.
 
-![ Image description ](./images/dens_map_europe_labels.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
-<center><i>Figure: Density map of breweries across Europe</i></center>
+
 
 
 ![ Image description ](./images/Correlation_city_center_rating.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
@@ -110,10 +114,11 @@ For this case study, we'll take a look at the wonderful city of Brussels with it
 ![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 <center><i>Figure: Map of Brussels with local small breweries</i></center>
 
-The breweries are categorized into three sets. <br />
-In the old city centre: 0-2 km<br />
-Further into the city: 0-15 km<br />
-In the periphery of Brussels: 15-50 km<br />
+The breweries are categorized into three sets. 
+- In the old city centre: 0-2 km<
+- Further into the city: 0-15 km
+- In the periphery of Brussels: 15-50 km
+
 Those categories are displayed as circles on the above figure.
 
 Our null hypothesis being that the distance to the city centre doesn't affect the breweries' ratings, our alternative hypothesis is that a negative correlation can be found between the two, indicating that remote breweries are less successful according to RateBeer data.
@@ -127,12 +132,14 @@ This analysis was also performed in Munich and Zurich and no significant results
 
 ## Beer styles location analysis
 &nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews's metadata, we can highlight net differences between beer styles produced in urban and in rural areas. This could be explained by brewing traditions, different tastes in beer drinkers or availability of raw materials for example. <br />
+
 To get a sense of the favorite styles per location, we calculated the favorite beer style produced by each brewery.
 On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as their best style according to their customers.
 
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 
 
+The next plot shows us the same, but with all brewery styles. What's interesting is that some styles performed clearly better clearly better wheter the beer comes from an urban or a local brewery. 
 
 ![ Image description ](./images/Fav_Style_b.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 
@@ -148,6 +155,8 @@ Now let's see what differences can be found between our two locations. We comput
 ## Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp; So what ?
 Where sould you put your brand new brewery and your plans to craft specialty beer from your region ? <br />
+
 Well good news, it doesn't matter if you chose to install yourself in the city or 50km outside of it, at least on how your beers may be appreciated. Other factors, such as the rent, access to clean water, if you want to build a taproom and if you're Head Brewer has a sens of taste for example, all have their importance ! But as long as you find spots and bars to sell your beers, it doesn't matter where you're located. <br />
+
 However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if you're star beer is supposed to be an Imperial Stout, then you have statitically better chances in the cities.
 
