@@ -133,7 +133,7 @@ This analysis was also performed in Munich and Zurich and no significant results
 To get a sense of the favorite styles per location, we calculated the favorite beer style produced by each brewery.
 On the plot below, we observe that the Imperial Stout is the most liked style across the world, with 10% of every urban brewery having it as their best style according to their customers.
 
-![ Image description ](./images/Fav_style2.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
+![ Image description ](./images/Fav_style3.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 
 
 The next plot shows us the same, but with all brewery styles. What's interesting is that some styles performed clearly better whether the beer comes from an urban or a local brewery. 
