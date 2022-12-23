@@ -51,6 +51,11 @@ cover-img: "/assets/img/beer.jpg"
 ![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="500"}
 <center><i>Figure: example</i></center>
 
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
+
 
 ### carte de densité brasseries
 
