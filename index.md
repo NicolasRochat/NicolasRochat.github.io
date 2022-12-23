@@ -43,7 +43,7 @@ cover-img: "/assets/img/beer.jpg"
 
 <div class="flourish-embed flourish-map" data-src="visualisation/12253983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-It's possible to see better the cluster of breweries forming cities for Europe on the following map
+With the following map, we can take a better look at the clusters forming around some cities in Europe
 
 ![ Image description ](./images/dens_map_europe_labels.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 <center><i>Figure: Density map of breweries across Europe</i></center>
