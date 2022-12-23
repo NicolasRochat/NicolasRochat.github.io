@@ -47,28 +47,37 @@ cover-img: "/assets/img/beer.jpg"
 
 ### Boxplot rating comparison ville/campagne
 
-### Linear-regression rating ville/campagne en fonction de la distance
-![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="500"}
+
+![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+The boxplot shows us a small difference in rating between urban and rural breweries, nothing significant enough to prove a difference in quality between both. The analysis of the outliers tells us the following:
+
+
+|                            | Urban | Rural      |
+|----------------------------|:-----:|-----------:|
+| Number of outliers         |  344 |        182 |
+| Pourcentage of outliers    |  6.58 % |          3.54 %|
+
+The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. This tendency is less noticed with rural breweries.
 
 
 ### carte de densité brasseries
 
 ### Linear-regression rating ville/campagne en fonction de la distance
-![ Image description ](./images/Correlation_city_center_rating.png){:style="display: block; margin-left: auto; margin-right: auto;" width="500"}
+![ Image description ](./images/Correlation_city_center_rating.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
 The correlation is clearly low, as moving one kilometer away from the city center changes the rating of the brewery of 0.001, which is equal to a change of 0.1 per 100km of distance from the closest city center. The city considered are often pretty big, which can results in a large distance from the city center even for breweries located inside the cities. The average distance from the nearest city center for rural and urban breweries is **45.27km** and **10.13km** respectively, which is not that a big difference.  
 
+It's interesting to take a look at which users are rewieving the beers, as that might influence the results in favor of one party or another.
 
 ### Barplot nombre de reviews par location user pour montrer confounder
-![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="500"}
+![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
+
+Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
+
 
 ### carte de munich avec cercles d'éloignements
 ### linear regression sur Munich
