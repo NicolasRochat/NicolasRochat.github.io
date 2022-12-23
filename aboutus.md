@@ -16,7 +16,7 @@ We are four Applied Data Analysts from environmental engineering eager to learn 
     <div class="caption" style="align: center; text-align:center"><b>Nicolas</b><br />Webmaster</div>
   </div> 
   <div class="column" style="align: center; text-align:center">
-    <a href="https://www.instagram.com/noefellay/"><img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait"></a>
+    <a href="https://www.instagram.com/noefellay/"><img src="/assets/img/noe2.jpg" style="max-width: 100px; max-height:100px" class="portrait"></a>
     <div class="caption" style="align: center; text-align:center"><b>Noe</b><br />Mapper</div>
   </div>          
   <div class="column" style="align: center; text-align:center">
