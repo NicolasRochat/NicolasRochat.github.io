@@ -136,7 +136,7 @@ On the plot below, we observe that the Imperial Stout is the most liked style ac
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 
 
-The next plot shows us the same, but with all brewery styles. What's interesting is that some styles performed clearly better clearly better wheter the beer comes from an urban or a local brewery. 
+The next plot shows us the same, but with all brewery styles. What's interesting is that some styles performed clearly better whether the beer comes from an urban or a local brewery. 
 
 ![ Image description ](./images/Fav_Style_b.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 
