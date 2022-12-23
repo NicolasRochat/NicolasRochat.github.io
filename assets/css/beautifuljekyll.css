@@ -10,6 +10,11 @@ html {
   font-size: 100%
 }
 
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
 .column {
   padding: 5px;
   display: center;
