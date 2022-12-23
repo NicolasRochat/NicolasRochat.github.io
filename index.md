@@ -112,7 +112,7 @@ For this case study, we'll take a look at the wonderful city of Brussels with it
 <center><i>Figure: Map of Brussels with local small breweries</i></center>
 
 The breweries are categorized into three sets. 
-- In the old city centre: 0-2 km<
+- In the old city centre: 0-2 km
 - Further into the city: 0-15 km
 - In the periphery of Brussels: 15-50 km
 
