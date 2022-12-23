@@ -92,9 +92,11 @@ It's interesting to take a look at which users are rewieving the beers, as that 
 Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29.
 
 
-### carte de munich avec cercles d'éloignements
 
-![ Image description ](./images/boxplots_comparison.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: example</i></center>
+
+![ Image description ](./images/scatter_brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
 ### linear regression sur Munich
