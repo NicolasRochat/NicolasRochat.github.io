@@ -140,8 +140,8 @@ Now let's see what differences can be found between our two locations. We comput
 
 
 ## Conclusion
-&nbsp;&nbsp;&nbsp;&nbsp; So what ? <br />
+&nbsp;&nbsp;&nbsp;&nbsp; So what ?
 Where sould you put your brand new brewery and your plans to craft specialty beer from your region ? <br />
 Well good news, it doesn't matter if you chose to install yourself in the city or 50km outside of it, at least on how your beers may be appreciated. Other factors, such as the rent, access to clean water, if you want to build a taproom and if you're Head Brewer has a sens of taste for example, all have their importance ! But as long as you find spots and bars to sell your beers, it doesn't matter where you're located. <br />
-However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if you're star beer is suppose to be an Imperial Stout, then you have statitically better chances in the cities.
+However, some styles of beer are strongly typed and belong more traditionnaly to outer town. So if you're star beer is supposed to be an Imperial Stout, then you have statitically better chances in the cities.
 
