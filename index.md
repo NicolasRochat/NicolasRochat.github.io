@@ -9,17 +9,16 @@ cover-img: "/assets/img/beer.jpg"
 
 &nbsp;&nbsp;&nbsp;&nbsp; Breweries are becoming more and more popular nowadays, each of them proposing beers with unique flavors. Appreciated by casual beer drinkers and craft beer enthusiasts, beers happen to be a thriving market. A rising amount of new breweries have emerged in the last decades. When starting a new brewery, the choice of location of the brewery is a significant step to guarantee its success.  
 
-&nbsp;&nbsp;&nbsp;&nbsp; There are several factors to consider when choosing a location for a brewery such as the access to raw materials (water, hops, barley, and yeast), the proximity to customers, zoning laws and regulations, costs of renting or buying property, and competition with other breweries.  
+&nbsp;&nbsp;&nbsp;&nbsp; There are several factors to consider when choosing a location for a brewery such as the access to raw materials (water, hops, barley, and yeast), the proximity to customers, zoning laws and regulations, costs of renting or buying property, and competition with other breweries. For this project, we were interested to distinguish the difference between urban and rural breweries
 
 ## Goal
 
-&nbsp;&nbsp;&nbsp;&nbsp; Throughout this project, we will try to give some tools for brewers to help them to choose the location of their future brewery by answering some research questions.
+&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ## Research questions
 
-&nbsp;&nbsp;&nbsp;&nbsp; Is a brewery inside a city more inclined to be successful?
+&nbsp;&nbsp;&nbsp;&nbsp; Are there major differences between urban and rural breweries? Does one of the two is better in general? Are there specific features related to urban or rural breweries?
 
-&nbsp;&nbsp;&nbsp;&nbsp; Which regions are more conducive to which style of beer?
 
 ## Methodology
 
@@ -28,7 +27,6 @@ cover-img: "/assets/img/beer.jpg"
 - ratings across different aspects: appearance, aroma, palate, taste
 - textual review
 
-&nbsp;&nbsp;&nbsp;&nbsp; Heatmap of reviews
 
 <div class="flourish-embed flourish-heatmap" data-src="visualisation/12245524"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -36,7 +34,7 @@ cover-img: "/assets/img/beer.jpg"
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12232997"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of breweries with API queries. 
+&nbsp;&nbsp;&nbsp;&nbsp; For further analysis, we needed to obtain precise location of the breweries all over the world with Google Maps API. 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/12253983"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
