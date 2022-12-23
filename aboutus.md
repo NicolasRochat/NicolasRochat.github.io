@@ -7,7 +7,7 @@ cover-img: "/assets/img/panda.jpg"
 
 We are four Applied Data Analysts from environmental engineering eager to learn about beers and their trends in the world. The legend says that by talking so much about beers during this project, we grew so thirsty that we emptied a few barrels at Satellite when the project was done...
 <div style="align: center; text-align:center;">
-  <img src="/assets/img/team_sustainablepandas.jpg" width="60%" height="60%"/>
+  <a href="https://www.youtube.com/watch?v=f55CqLc6IR0"><img src="/assets/img/team_sustainablepandas.jpg" width="60%" height="60%"/></a>
   <div class="caption">Field Study at Sat</div>
 </div>
 <div class="container" style="align: center">
