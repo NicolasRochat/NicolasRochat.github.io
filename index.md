@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Brewery locations
-subtitle: Where should you install your brewery ?
+subtitle: Where should you install your brewery based on beer reviews ?
 cover-img: "/assets/img/beer.jpg"
 ---
 
@@ -40,8 +40,11 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Methodology
 
-## Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
+### Expliquer combien ont été discard car mal placés montrer clusters par ville, combien de brasseries classifiées en ville et hors de villes? etc… 
 &nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded, i.e., (2555 breweries). After that step, the breweries that were classified in the wrong country where also removed (XXX breweries) and we considered that the rest of the breweries where correctly classified. Then, using a shapefile that had the major cities in the world (i.e XXX cities), it was possible to extract which breweries where inside of a city and which breweries where outside of a city. Thiss resulted in XXX breweries in the city and XXX breweries outside of the city.
+
+### Distance to the closest city
+&nbsp;&nbsp;&nbsp;&nbsp; The next data thats needs to be found is the distance of each brewery to the closest city around it. To compute it, the position of the 6000 of the biggest cities of the world, including capitals end major cities from every country were needed. 
 
 
 
@@ -74,10 +77,8 @@ The boxplot shows us a small difference in rating between urban and rural brewer
 
 The urban breweries induce more one-sided opinions, which means that they more often provide very good or very poor results. In fact, the huge majority of outliers, more than 90% of them, are "black sheeps" ones as they are below the minimum line of the boxplot. Hence, breweries not in the average cluster tend to perform bad more often than god. This tendency is also noticed with rural breweries, but the ratio of them beeing outliers is smaller, therefore rural breweries are less often "very bad". That's +1 for rural beer factories.
 
-
-### carte de densité brasseries
 ![ Image description ](./images/dens_map_europe_labels.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: example</i></center>
+<center><i>Figure: Density map of breweries across Europe</i></center>
 
 ### Linear-regression rating ville/campagne en fonction de la distance
 ![ Image description ](./images/Correlation_city_center_rating.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
