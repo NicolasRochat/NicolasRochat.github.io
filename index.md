@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Brewery locations
-subtitle: Where should you install your brewery based on beer reviews ?
+subtitle: Where should you install your brewery based on beer reviews ? In the countryside or in a city?
 cover-img: "/assets/img/beer.jpg"
 ---
 
