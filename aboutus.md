@@ -15,19 +15,19 @@ We are four Applied Data Analysts from environmental engineering eager to learn 
 <div class="container" style="align: center">
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/bastien.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-    <div class="caption" style="align: center; text-align:center">Bastien</div>
+    <div class="caption" style="align: center; text-align:center">Bastien<br />Storyteller</div>
   </div>
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/noe.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-    <div class="caption" style="align: center; text-align:center">Noe</div>
+    <div class="caption" style="align: center; text-align:center">Noe<br />Mapper</div>
   </div>       
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/nicolas.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-    <div class="caption" style="align: center; text-align:center">Nicolas</div>
+    <div class="caption" style="align: center; text-align:center">Nicolas<br />Webmaster</div>
   </div>      
   <div class="column" style="align: center; text-align:center">
     <img src="/assets/img/baptiste.jpg" style="max-width: 100px; max-height:100px" class="portrait">
-    <div class="caption" style="align: center; text-align:center">Baptiste</div>
+    <div class="caption" style="align: center; text-align:center">Baptiste<br />Ananlyst</div>
   </div>
 </div>
 
