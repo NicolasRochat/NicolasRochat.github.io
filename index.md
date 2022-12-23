@@ -76,6 +76,8 @@ The urban breweries induce more one-sided opinions, which means that they more o
 
 
 ### carte de densité brasseries
+![ Image description ](./images/dens_map_europe_labels.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: example</i></center>
 
 ### Linear-regression rating ville/campagne en fonction de la distance
 ![ Image description ](./images/Correlation_city_center_rating.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
@@ -109,7 +111,7 @@ Our reviews are mostly coming from the other side of the Atlantic. The Americans
 ![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
-![ Image description ](./images/scatter_brussel_cat.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+![ Image description ](./images/scatter_brussel_cat_leg.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
 ### linear regression sur Munich
