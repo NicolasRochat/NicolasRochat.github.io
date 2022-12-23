@@ -5,11 +5,11 @@ subtitle: Who we are
 cover-img: "/assets/img/panda.jpg"
 ---
 
-We are four Applied Data Analysts concerned by beer reviews around the world. Characteristics of a good beer such as appearance, aroma, palate, and taste are specific to everyone's tastes. Each beer is unique due to its complex fabrication which requires many processes and many different ingredients. 
+We are four Applied Data Analysts from environmental engineering eager to learn about beers and their trends in the world. The legend says that by talking so much about beers during this project, we grew so thirsty that we emptied a few barrels at Satellite when the project was done...
 
 <div style="align: center; text-align:center;">
   <img src="/assets/img/team_sustainablepandas.jpg" width="60%" height="60%"/>
-  <div class="caption">Field Studies at Sat</div>
+  <div class="caption">Field Study at Sat</div>
 </div>
 
 <div class="container" style="align: center">
