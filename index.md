@@ -50,6 +50,7 @@ It's possible to see better the cluster of breweries forming cities for Europe o
 
 ## Methodology
 
+### Google API
 &nbsp;&nbsp;&nbsp;&nbsp; Using the google API queries, not all breweries locations could be found. In a first step, all breweries where no location where found have been discarded. In a second step, all the breweries classified in the wrong countries have also been removed. All the other breweries where considered as correctly classified for the analysis. Using a shapefile which had the major cities in the world (6018), it was then possible to determine how many breweries are inside a city and how many breweries are outside of a city. Moreover, the beers which had less than 3 reviews have also been removed in order to avoid biased ratings.
 
 
@@ -94,11 +95,8 @@ The urban breweries induce more one-sided opinions, which means that they more o
 
 The correlation is clearly low, as moving one kilometer away from the city center changes the rating of the brewery of 0.001, which is equal to a change of 0.1 per 100km of distance from the closest city center. The city considered are often pretty big, which can results in a large distance from the city center even for breweries located inside the cities. The average distance from the nearest city center for rural and urban breweries is **45.27km** and **10.13km** respectively, which is not that a big difference.  
 
-
 It's interesting to take a look at which users are rewieving the beers, as that might influence the results in favor of one party or another. Here is a plot with the 4 countries that rated the most beers. 
 
-
-### Barplot to illustrate the possible cofounders
 ![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="700"}
 
 Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is 3.39, and the average rating for total reviews is 3.11. The plot below shows that the beers are rated much better in North America than in Africa. But is that because breweries are better in America or is it because Americans rate breweries better ? Maybe another group answered this interesting question, but we always have to be aware that some cofounding factors may exist.
