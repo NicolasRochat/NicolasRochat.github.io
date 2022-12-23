@@ -24,7 +24,7 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Dataset description
 
-&nbsp;&nbsp;&nbsp;&nbsp; We used a dataset on beer reviews provided by the RateBeer website which collected over 7 millions reviews for a period of 17 years (2001-2017). It includes :
+&nbsp;&nbsp;&nbsp;&nbsp; We used a dataset on beer reviews provided by the [RateBeer website](https://www.ratebeer.com/) which collected over 7 millions reviews for a period of 17 years (2001-2017). It includes :
 - metadata about 442k beers, 24k breweries, and 70k users
 - ratings across different aspects: appearance, aroma, palate and taste
 - a textual review
