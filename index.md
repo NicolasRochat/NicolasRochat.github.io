@@ -13,7 +13,7 @@ cover-img: "/assets/img/beer.jpg"
 
 ## Goal
 
-&nbsp;&nbsp;&nbsp;&nbsp; This projects aims to give adice to new brewers and show if they should install themselves in a crowded city or in the calm countryside. A look will also be given into beer styles and what are differences can be found between beer crafted in urban area and in rural area.
+&nbsp;&nbsp;&nbsp;&nbsp; This projects aims to give advice to new brewers and indicate if they should install themselves in a crowded city or in the calm countryside. A look will also be given into beer styles and what are differences can be found between beer crafted in urban area and in rural area.
 
 ## Research questions
 
@@ -25,6 +25,8 @@ cover-img: "/assets/img/beer.jpg"
 - metadata about 442k beers, 24k breweries, and 70k users
 - ratings across different aspects: appearance, aroma, palate and taste
 - a textual review
+- users' and breweries' country
+- beer styles
 
 &nbsp;&nbsp;&nbsp;&nbsp; The distribution of reviews on different styles over time allow us to observe that between 2013 and 2016 India Pale Ale (IPA), Imperial Stout, Imperial IPA, and American Pale Ale recieved the major part of reviews.
 
@@ -103,8 +105,7 @@ For this case study, we'll take a look at the wonderful city of Brussels with it
 The breweries are categorized into three sets. <br />
 In the old city centre: 0-2 km<br />
 Further into the city: 0-15 km<br />
-In the periphery of Brussels: 15-50 km
-
+In the periphery of Brussels: 15-50 km<br />
 Those categories are displayed as circles on the above figure.
 
 Our null hypothesis being that the distance to the city centre doesn't affect the breweries' ratings, our alternative hypothesis is that a negative correlation can be found between the two, indicating that remote breweries are less successful according to RateBeer data.
@@ -116,7 +117,9 @@ In both cases, the p-values indicates that we can't reject our null hypothesis.
 
 This analysis was also performed in Munich and Zurich and no significant results were found either.
 
-### Plots sur les style
+## Beer styles location analysis
+&nbsp;&nbsp;&nbsp;&nbsp; Using the styles provided by the reviews's metadata, we 
+
 ![ Image description ](./images/Fav_style.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
