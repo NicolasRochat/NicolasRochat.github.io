@@ -89,12 +89,16 @@ The urban breweries induce more one-sided opinions, which means that they more o
 
 The correlation is clearly low, as moving one kilometer away from the city center changes the rating of the brewery of 0.001, which is equal to a change of 0.1 per 100km of distance from the closest city center. The city considered are often pretty big, which can results in a large distance from the city center even for breweries located inside the cities. The average distance from the nearest city center for rural and urban breweries is **45.27km** and **10.13km** respectively, which is not that a big difference.  
 
-It's interesting to take a look at which users are rewieving the beers, as that might influence the results in favor of one party or another.
 
 ### Barplot nombre de reviews par location user pour montrer confounder
 ![ Image description ](./images/plot_cofounder.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: example</i></center>
 
+It's interesting to take a look at which users are rewieving the beers, as that might influence the results in favor of one party or another. Here is a plot with the 4 countries that rated the most beers. Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is 3.39, and the average rating for total reviews is 3.11. The plot below shows that the beers are rated much better in North America than in Africa. But is that because breweries are better in America or is it because Americans rate breweries better ? Maybe another group answered this interesting question, but we always have to be aware that some cofounding factors may exist.
+
+![ Image description ](./images/country.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
+<center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
+ 
 ## Case study: small breweries in Brussels
 &nbsp;&nbsp;&nbsp;&nbsp; So it seems that globally, no trend can be found with the remoteness of breweries. But what about it on a local scale ?
 And couldn't this effect be linked to the size and relative popularity of breweries ?
@@ -137,10 +141,6 @@ Now let's see what differences can be found between our two locations. We comput
 <center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
 
 
-Our reviews are mostly coming from the other side of the Atlantic. The Americans reviewed up to 5 times more beers than the second most represented country, United Kingdom. The American are more generous with the ratings compared to the average: the mean rating coming from American prople is **add value**, and the average rating for total reviews is 3.29. The plot below shows that the beers are rated much better in North America than in Africa.
-
-![ Image description ](./images/country.png ){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
-<center><i>Figure: Average differences in beer styles: urban and rural breweries</i></center>
 
 
 ## Conclusion
