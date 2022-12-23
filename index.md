@@ -102,7 +102,7 @@ It's interesting to take a look at which users are rewieving the beers, as that 
 ## Case study: small breweries in Brussels
 &nbsp;&nbsp;&nbsp;&nbsp; So it seems that globally, no trend can be found with the remoteness of breweries. But what about it on a local scale ?
 And couldn't this effect be linked to the size and relative popularity of breweries ?
-For this case study, we'll take a look at the wonderful city of Brussels with its many breweries. To take only small businesses into account, we select breweries with fewer than 100 reviews and in a 50 kilometers radius around the city centre, which brings us to a sample of 103 points.
+For this case study, we'll take a look at the wonderful city of Brussels with its many breweries. To take only small businesses into account, we select breweries with fewer than 100 reviews and in a 50 kilometers radius around the city centre, which brings us to a sample of 102 points.
 
 ![ Image description ](./images/brussel.png){:style="display: block; margin-left: auto; margin-right: auto;" width="600"}
 <center><i>Figure: Map of Brussels with local small breweries</i></center>
