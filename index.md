@@ -2,7 +2,7 @@
 layout: home
 title: Brew-tiful Spots
 subtitle: Where should you install your brewery based on beer reviews ? In the countryside or in a city?
-cover-img: "/assets/img/swiss-map-raster25_2020_1243_komb_1.25_2056.tif"
+cover-img: "/assets/img/beer.jpg"
 ---
 
 ## Motivation
